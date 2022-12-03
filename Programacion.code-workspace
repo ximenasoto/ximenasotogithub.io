@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/DATABASE/Documents/Mishelle/Programacion"
+		},
+		{
+			"path": "C:/Users/DATABASE/Documents/MishSan"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
